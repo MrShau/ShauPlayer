@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShauPlayer.Audio/ShauPlayer.Audio.csproj" />
+  <Project Path="ShauPlayer.Core/ShauPlayer.Core.csproj" />
+  <Project Path="ShauPlayer/ShauPlayer.csproj" />
+</Solution>
